@@ -36,8 +36,7 @@ A simple, responsive frontend application for managing tasks. It supports adding
 - Edit or delete tasks using the action buttons.
 - Tasks persist in local storage (if enabled in the app).
 
-## Screenshots (optional)
-_Add screenshots of the UI here._
+
 
 ## Contributing
 - Fork the repository and create a feature branch.
